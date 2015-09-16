@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 治禪病祕要法
+#+DATE: 2015-08-30 20:14:13.486152
+#+PROPERTY: JUAN 0
